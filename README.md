@@ -1,0 +1,1 @@
+Hey! This is a script for tampermonkey-like browser extensions, that gives a like 90% functional one-click copy button for bsky. By default this returns the href as a fxbsky url for embed consistency, but bsky and the internet in general are kind of a heap in 2026 so we just send it okay?
